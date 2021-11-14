@@ -81,6 +81,8 @@ $$
 U_{S}=U_{R}+U_{C}\\U_{S}=IR+U_{C}\\U_{S}=C \frac{d U_{C}}{d t}R+U_{C}
 $$
 我们一般这样写这个数学表达式
+
+
 $$
 U_{S}=RC \frac{d U_{C}}{d t}+U_{C}
 $$
